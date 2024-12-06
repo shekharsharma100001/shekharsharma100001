@@ -1,4 +1,4 @@
-![GitHub Banner](https://media.licdn.com/dms/image/v2/C4E12AQHomW0rRba6WQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1592483610572?e=1730937600&v=beta&t=O047uo-telX-hu7yl8MjP_6vkV_pHVdnWzBm7MkNWMk)
+![GitHub Banner](banner.jpg)
 <h1 align="center">Hi 👋, I'm Shekhar Sharma</h1>
 <h3 align="center">A passionate Python developer and Machine Learning, Artificial Intelligence enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
