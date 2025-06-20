@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shekhar100001" target="blank"><img src="https://img.shields.io/twitter/follow/shekhar100001?logo=twitter&style=for-the-badge" alt="shekhar100001" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning, Computer Vision**
+- 🌱 I’m currently learning **GenAI, MLOps**
 
 - 💬 Ask me about **Python**
 
