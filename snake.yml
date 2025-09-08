@@ -13,7 +13,7 @@ jobs:
       - name: Generate Snake SVG with dark theme
         uses: Platane/snk@v3
         with:
-          github_user_name: deepak2k03
+          github_user_name: shekharsharma100001
           outputs: |
             dist/github-contribution-grid-snake-dark.svg
           theme: github-dark
